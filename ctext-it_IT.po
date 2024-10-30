@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Category Text 1.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-28 13:06+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Michele Menciassi <m.menciassi@isikom.it>\n"
+"Language-Team: Michele Menciassi <michele@miblogo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: /var/www/wordpress.it/wp-content/plugins/ctext\n"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:59
+msgid "Sidebar List"
+msgstr "Lista Sidebar"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:136
+msgid "Select a list"
+msgstr "Seleziona una lista"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:213
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:1065
+msgid "Category Text"
+msgstr "Testo in Categoria"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:213
+msgid "powered by"
+msgstr "realizzato da"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:220
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:682
+msgid "Ctext"
+msgstr "Testo in Categoria"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:222
+msgid "Plugin Version"
+msgstr "Verisione Plugin"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:223
+msgid "DB Version"
+msgstr "Versione DB"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:225
+msgid "If you find this plugin useful, you can think to offer me a beer, making a paypal donation"
+msgstr "Se questo plugin ti è stato utile, puoi anche pensare di offrirmi una birra facendomi una donazione con paypal"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:243
+msgid "Lists Management"
+msgstr "Amministrazione Liste"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:253
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:271
+msgid "name required missed"
+msgstr "nome obbligatorio mancante"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:257
+msgid "new list successfully added"
+msgstr "nuova lista aggiunta con successo"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:261
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:269
+msgid "list id missed"
+msgstr "ID della lista mancante"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:265
+msgid "list successfully deleted"
+msgstr "lista cancellata con successo"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:275
+msgid "list successfully renamed"
+msgstr "lista rinominata con successo"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:278
+msgid "invalid action"
+msgstr "azione non valida"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:287
+msgid "New List"
+msgstr "Nuova Lista"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:289
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:321
+msgid "New name"
+msgstr "Nuovo nome"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:294
+msgid "add"
+msgstr "aggiungi"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:301
+msgid "Delete List"
+msgstr "Cancella Lista"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:303
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:317
+msgid "Lists"
+msgstr "Liste"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:308
+msgid "delete"
+msgstr "cancella"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:315
+msgid "Rename List"
+msgstr "Rinomina Lista"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:326
+msgid "rename"
+msgstr "rinomina"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:340
+msgid "Elements Management"
+msgstr "Amministrazione Elementi"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:356
+msgid "show elements"
+msgstr "mostra elementi"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:366
+msgid "element successfully delated"
+msgstr "elemento cancellato con successo"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:374
+msgid "element successfully updated"
+msgstr "elemento aggiornato con successo"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:389
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:561
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:584
+msgid "Title"
+msgstr "Titolo"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:390
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:573
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:622
+msgid "Categories"
+msgstr "Categorie"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:391
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:566
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:592
+msgid "Text"
+msgstr "Testo"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:392
+msgid "Preview"
+msgstr "Anteprima"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:407
+msgid "Modify the element"
+msgstr "Modifica l'elemento"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:408
+msgid "title showed"
+msgstr "titolo visibile"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:408
+msgid "title hidden"
+msgstr "titolo nascosto"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:409
+msgid "showed in posts"
+msgstr "visualizzato nei posts"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:409
+msgid "not showed in posts"
+msgstr "non visualizzato nei posts"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:410
+msgid "showed in home"
+msgstr "visualizzato in home"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:410
+msgid "not showed in home"
+msgstr "non visualizzato in home"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:412
+msgid "Edit this element"
+msgstr "Modifica questo elemento"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:412
+msgid "Edit"
+msgstr "Modifica"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:413
+msgid "Delete this element"
+msgstr "Cancella questo elemento"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:413
+msgid "Do you really want delete this element?"
+msgstr "Vuoi veramente cancellare questo elemento?"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:413
+msgid "Delete"
+msgstr "Cancella"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:424
+msgid "Children categories:"
+msgstr "Categorie figlie:"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:424
+msgid "yes"
+msgstr "si"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:424
+msgid "no"
+msgstr "no"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:435
+msgid "fast edit"
+msgstr "modifica veloce"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:452
+msgid "No elements in this list"
+msgstr "Nessun elemento in questa lista"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:456
+msgid "You must select a list from menu"
+msgstr "Devi selezionare una lista dal menu"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:473
+msgid "Edit Element"
+msgstr "Modifica Elemento"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:484
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:685
+msgid "Add Element"
+msgstr "Aggiungi Elemento"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:522
+msgid "Successfully added"
+msgstr "Aggiunto con successo"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:543
+msgid "Successfully updated"
+msgstr "Aggiornato con successo"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:559
+msgid "Fields missed"
+msgstr "Campi mancanti"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:571
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:615
+msgid "List"
+msgstr "Lista"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:588
+msgid "Show title"
+msgstr "Mostra titolo"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:607
+msgid "Save"
+msgstr "Salva"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:629
+msgid "Extend to child category"
+msgstr "Estendi alla categoria figlia"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:630
+msgid "children allowed"
+msgstr "Categorie figlie ammesse"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:634
+msgid "Extend to posts of category"
+msgstr "Estendi ai posts della categoria"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:635
+msgid "posts allowed"
+msgstr "permesso nei posts:"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:639
+msgid "Show in home"
+msgstr "Mostra in home"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:640
+msgid "Extend to home page"
+msgstr "Estendi alla home page"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:683
+msgid "Manage Lists"
+msgstr "Amministra Liste"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:684
+msgid "Manage Elements"
+msgstr "Amministra Elementi"
+
+#: /var/www/wordpress.it/wp-content/plugins/ctext/ctext.php:1066
+msgid "Arbitrary text or HTML for categories"
+msgstr "Testo o HTML libero suddiviso per categoria"
+
